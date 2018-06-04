@@ -1,6 +1,6 @@
 {
   "name": "ng-http-transform-utils",
-  "description": "Changes height of the element until parent gets a scroll",
+  "description": "Easy manipulation for AngularJS http transform",
   "authors": [
     "Carlos Henrique <carloshpds@gmail.com>"
   ],
