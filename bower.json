@@ -1,0 +1,58 @@
+{
+  "name": "ng-http-transform-utils",
+  "description": "Changes height of the element until parent gets a scroll",
+  "authors": [
+    "Carlos Henrique <carloshpds@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TimeoutZero/ng-http-transform-utils.git"
+  },
+  "main": [
+    "builds/release/ngHttpTransformUtils.js"
+  ],
+  "devDependencies": {
+    "angular-resource": "1.4.6",
+    "angular-mocks": "1.4.6"
+  },
+
+  "dependencies": {
+    "jquery": "3.1.1",
+    "angular": "1.4.7"
+  },
+
+  "resolutions": {
+    "angular": "1.4.7",
+    "angular-touch": "1.4.6"
+  },
+  "overrides": {},
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "ng",
+    "ui",
+    "select",
+    "ui-select",
+    "ng-http-transform-utils",
+    "br",
+    "web-components"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "demo",
+    ".vscode",
+    "test",
+    "tests",
+    "gulpfile.js",
+    "karma.conf.js",
+    "package.json"
+  ],
+  "license": "MIT"
+}
